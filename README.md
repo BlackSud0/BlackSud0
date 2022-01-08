@@ -11,7 +11,7 @@
 
 |      Project :octocat:   |     Summary :dart:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Stars :star: |
 |-------------|-------------------|-------------------|---|---|---|
-| [**C4SED**](https://github.com/BlackSud0/c4sed) | A simplified steel elements design platform | [![GitHub issues](https://img.shields.io/github/issues/BlackSud0/c4sed?color=green&logo=github&style=flat)](https://github.com/BlackSud0/c4sed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BlackSud0/c4sed?style=flat&logo=github)](https://github.com/BlackSud0/c4sed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BlackSud0/c4sed?style=flat&color=critical&logo=github)](https://github.com/BlackSud0/c4sed/pulls?q=is%3Apr+is%3Aclosed)  | [![GitHub Stars](https://img.shields.io/github/stargazers/BlackSud0/c4sed?logo=github&style=flat)](https://github.com/BlackSud0/c4sed/stargazers) |
+| [**C4SED**](https://github.com/BlackSud0/c4sed) | A simplified steel elements design platform | [![GitHub issues](https://img.shields.io/github/issues/BlackSud0/c4sed?color=green&logo=github&style=flat)](https://github.com/BlackSud0/c4sed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BlackSud0/c4sed?style=flat&logo=github)](https://github.com/BlackSud0/c4sed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BlackSud0/c4sed?style=flat&color=critical&logo=github)](https://github.com/BlackSud0/c4sed/pulls?q=is%3Apr+is%3Aclosed)  | [![GitHub Stars](https://img.shields.io/github/stars/BlackSud0/c4sed?logo=github&style=flat)](https://github.com/BlackSud0/c4sed/stargazers) |
 
 Consider leaving a :star: for **[C4SED Platform](https://github.com/BlackSud0/c4sed/)** built by me! :hugs: <br>
 
