@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BlackSud0)
 [![Profile Views](https://komarev.com/ghpvc/?username=BlackSud0&color=blue)](https://github.com/BlackSud0) 
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/BlackSud0?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Security Specialist at **Sud0root**](https://sud0root.com/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/BlackSud0/), You can **find me on [LinkedIn](https://www.linkedin.com/in/blacksudo/)** and my own website <a href="https://blacksudo.com">https://blacksudo.com</a>. 
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/BlackSud0?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2012 to becoming [Security Specialist at **Sud0root**](https://sud0root.com/) :dart: in 2017 🇸🇩 . Outside of [GitHub](https://github.com/BlackSud0/), You can **find me on [LinkedIn](https://www.linkedin.com/in/blacksudo/)** and my own website <a href="https://blacksudo.com">https://blacksudo.com</a>. 
 
 - 🔭 I’m currently working on Tutorials for my blog reach me on twitter for chat or help
 - 👯 Currently I'm **looking for contributions** for following projects:
@@ -13,7 +13,7 @@
 |-------------|-------------------|-------------------|---|---|---|
 | [**C4SED**](https://github.com/BlackSud0/c4sed) | A simplified steel elements design platform | [![GitHub issues](https://img.shields.io/github/issues/BlackSud0/c4sed?color=green&logo=github&style=flat)](https://github.com/BlackSud0/c4sed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BlackSud0/c4sed?style=flat&logo=github)](https://github.com/BlackSud0/c4sed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BlackSud0/c4sed?style=flat&color=critical&logo=github)](https://github.com/BlackSud0/c4sed/pulls?q=is%3Apr+is%3Aclosed)  | [![GitHub Stars](https://img.shields.io/github/stars/BlackSud0/c4sed?logo=github&style=flat)](https://github.com/BlackSud0/c4sed/stargazers) |
 
-Consider leaving a :star: for **[C4SED Platform](https://github.com/BlackSud0/c4sed/)** built by me! :hugs: <br>
+Consider leaving a :star: for **[C4SED Platform](https://github.com/BlackSud0/c4sed/)** built by me & folks in University of Kassala! :hugs: <br>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlackSud0?style=social)](https://twitter.com/BlackSud0)
