@@ -23,8 +23,8 @@ Consider leaving a :star: for **[C4SED Platform](https://github.com/BlackSud0/c4
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/BlackSudo "Connect on Facebook")
 <a href="https://www.youtube.com/c/Sud0root"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSud0&layout=compact)](https://github.com/BlackSud0) ![BlackSudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackSud0&count_private=true&show_icons=true&bg_color=fffefe&title_color=2f80ed"&text_color=333&border_color=e4e2e2)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSud0&layout=compact)](https://github.com/BlackSud0) 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=BlackSud0&count_private=true&show_icons=true&bg_color=fffefe&title_color=2f80ed"&text_color=333&border_color=e4e2e2' width="400">
 <!--
 **BlackSud0/BlackSud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
